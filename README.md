@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @agnar
 - 👀 I’m interested in Game development and .Net c# Web 
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on
+- 🌱 Currently Unity project
 - 📫 How to reach me agnarzb@gmail.com
 
 <!---
